@@ -7,3 +7,9 @@ Git fundamentals
 # Add a new branch  
 ```git checkout -b my-branch```
 
+# Merge a feature branch  
+```git checkout main```  
+```git merge my-branch```  
+
+...
+
