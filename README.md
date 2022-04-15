@@ -7,3 +7,5 @@ Git fundamentals
 # Add a new branch  
 ```git checkout -b my-branch```
 
+...
+
