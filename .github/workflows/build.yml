@@ -19,4 +19,4 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so this job can access it
       - name: Run command
-        run: dir -lth
+        run: fsdfsdfdsf -lth
